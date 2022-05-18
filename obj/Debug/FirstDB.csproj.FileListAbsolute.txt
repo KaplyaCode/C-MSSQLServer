@@ -1,0 +1,14 @@
+D:\Programing\SQL\FirstDB\bin\Debug\POPSHOP_DB.mdf
+D:\Programing\SQL\FirstDB\bin\Debug\POPSHOP_DB_log.ldf
+D:\Programing\SQL\FirstDB\bin\Debug\FirstDB.exe.config
+D:\Programing\SQL\FirstDB\bin\Debug\FirstDB.exe
+D:\Programing\SQL\FirstDB\bin\Debug\FirstDB.pdb
+D:\Programing\SQL\FirstDB\obj\Debug\FirstDB.csproj.AssemblyReference.cache
+D:\Programing\SQL\FirstDB\obj\Debug\FirstDB.Form1.resources
+D:\Programing\SQL\FirstDB\obj\Debug\FirstDB.Properties.Resources.resources
+D:\Programing\SQL\FirstDB\obj\Debug\FirstDB.csproj.GenerateResource.cache
+D:\Programing\SQL\FirstDB\obj\Debug\FirstDB.csproj.CoreCompileInputs.cache
+D:\Programing\SQL\FirstDB\obj\Debug\FirstDB.exe
+D:\Programing\SQL\FirstDB\obj\Debug\FirstDB.pdb
+D:\Programing\SQL\FirstDB\obj\Debug\FirstDB.Create_check.resources
+D:\Programing\SQL\FirstDB\obj\Debug\FirstDB.Diagram_form.resources
